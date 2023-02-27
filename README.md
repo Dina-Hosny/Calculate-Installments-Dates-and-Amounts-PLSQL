@@ -6,4 +6,5 @@ PLSQL script that calculates the installments' dates and the amount of each date
 
 ## Tools and Technologies:
 - SQL and PLSQL.
+- Triggers
 - TOAD.
